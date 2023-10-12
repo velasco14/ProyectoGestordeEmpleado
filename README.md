@@ -1,2 +1,2 @@
 # ProyectoGestordeEmpleado
-Gestor de Empleados a través de ASP.NET y SQL Server 
+Gestor de Empleados a través de C#, ASP.NET y SQL Server 
